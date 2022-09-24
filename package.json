@@ -1,0 +1,23 @@
+{
+  "name": "node_maximilian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NivasDonthireddy/Node_Maximilian.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NivasDonthireddy/Node_Maximilian/issues"
+  },
+  "homepage": "https://github.com/NivasDonthireddy/Node_Maximilian#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
